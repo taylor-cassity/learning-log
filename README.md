@@ -42,19 +42,4 @@ A growing reference of concepts I've learned. Each file is my own explanation â€
 
 ---
 
-## How I log
-
-Each monthly file in the topic folders follows this format:
-
-```
-### YYYY-MM-DD
-**Topic:**
-**What I did:**
-**What broke / confused me:**
-**What I learned:**
-**Next:**
-```
-
----
-
 *Started April 2026. Updated regularly.*
